@@ -1,0 +1,16 @@
+.ItemImg{
+    width: 200px;
+    height: 200px;
+}
+
+.CardItem{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width:300px;
+    border: 1px solid rgb(16, 48, 78);
+    box-shadow: 2px 2px 8px 4px #344552d1;
+    border-radius:15px;
+    font-family: sans-serif;
+    margin-top: 10px;
+}

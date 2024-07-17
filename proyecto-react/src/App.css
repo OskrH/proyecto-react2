@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+Nav{
+  display: flex;
+  justify-content: space-around;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
