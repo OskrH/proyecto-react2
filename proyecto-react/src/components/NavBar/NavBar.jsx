@@ -6,8 +6,7 @@ const NavBar = () => {
     return (
         <nav>
         <Link to='/'>
-            <img src={icon} alt="" />
-            <h1>PC BUILD</h1>
+            <img src={icon} alt="iconoprincipal" />
         </Link>
             <div className="Categories">
                 <NavLink to={`/categoria/RAM`} className={({isActive}) => isActive ? 'ActiveOption' : 'Option'}>RAM</NavLink>

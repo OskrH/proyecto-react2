@@ -10,6 +10,7 @@ Nav{
   justify-content: space-around;
 }
 
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
